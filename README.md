@@ -32,4 +32,4 @@ Aqui estão algumas informações para você me conhecer melhor!
 <a href="https://medium.com/@laryssa.ferreira" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
  </div>
  
-![Snake animation](https://github.com/laryferreira/laryferreira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/laryferreira/laryferreira/blob/517f4d9eeca86ffb0631686bcfc872ae88668212/.github/workflows/main.yml)
