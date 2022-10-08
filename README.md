@@ -34,4 +34,6 @@ Aqui estão algumas informações para você me conhecer melhor!
 <img align="left" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
  </p>
  </div>
- 
+ <div>
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+</div>
