@@ -27,9 +27,9 @@ Aqui estão algumas informações para você me conhecer melhor!
   ##
  
 <div>  
-  ###
+  #
   <h1 align="left">Você me encontra facilmente aqui:</h1>
-  ###
+  
   </div>
     <div>
  <a href="mailto:contatolaryssaf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
