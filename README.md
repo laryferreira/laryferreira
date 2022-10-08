@@ -29,8 +29,8 @@ Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
 
  <a href="https://drive.google.com/file/d/15GRQgUBVLdgEFhmEK4cEanWg8F-2lZvj/view?usp=sharingk">
  <a href="https://github.com/laryferreira">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laryferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=7&theme=dark"/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api?username=laryferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=7&theme=dark"/>
  
 </div>
 
