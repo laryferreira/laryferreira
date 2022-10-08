@@ -15,7 +15,7 @@ Aqui estão algumas informações para você me conhecer melhor!
 - 🏆 ***Em busca de pessoas dedicadas em aprendizado de desenvolvimento web para aprendermos juntos!***
 - ❔ Quero saber mais sobre desenvolvimento IOS e uso do Xcode
 - 💬 Pergunte-me sobre HTML e CSS, criação de formulários e interfaces simples
-
+ <img src="https://github.com/fbuireu/fbuireu/blob/main/assets/images/gif/punk-horn.gif?raw=true" width="45px"> 
 <div>
   <a href="https://drive.google.com/file/d/15GRQgUBVLdgEFhmEK4cEanWg8F-2lZvj/view?usp=sharingk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laryferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -29,8 +29,6 @@ Aqui estão algumas informações para você me conhecer melhor!
   <img align="center" alt="Lary-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Lary-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Lary-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
- </div>
-<div>
-
+ 
   ![Snake animation](https://github.com/laryferreira/laryferreira/blob/output/github-contribution-grid-snake.svg)
 </div>
