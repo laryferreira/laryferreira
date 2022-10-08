@@ -47,4 +47,8 @@ Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
   ![Snake animation](https://github.com/laryferreira/laryferreira/blob/output/github-contribution-grid-snake.svg)
   
   ![](https://komarev.com/ghpvc/?username=laryferreira&label=📈+You+are+visitor+number&color=green)
-
+  
+  <!--<p align=center><img src="https://giphy.com/clips/comedycentral-workaholics-comedy-central-7tR0en57EZPIs7S4JI" width="80px">-->
+  
+  <!--![footer](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=180&width=100&section=footer&text=&lsaquo;&rsaquo;%20Thanks%20for%20watching%20my%20profile%20&lsaquo;/&rsaquo;&fontSize=20&fontAlign=50&fontColor=000000)-->
+<!--
