@@ -31,8 +31,6 @@ Aqui estão algumas informações para você me conhecer melhor!
   <img align="center" alt="Lary-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
  </div>
 <div>
- <p>
-<img align="right" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
   ![Snake animation](https://github.com/laryferreira/laryferreira/blob/output/github-contribution-grid-snake.svg)
 </div>
