@@ -1,5 +1,5 @@
 
-### Hi everyone, I'm Laryssa! 
+### Hello World, I'm Laryssa! 
 
 <div>
 
@@ -24,7 +24,7 @@ It would be a honor to have your company on this journey! ☺️ <br>
 Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
 
 ##
-
+ 
 <div align="center">
 
  <a href="https://drive.google.com/file/d/15GRQgUBVLdgEFhmEK4cEanWg8F-2lZvj/view?usp=sharingk">
@@ -42,6 +42,13 @@ Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
 <img align="center" alt="Lary-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
+##
+- 🔋 Charged by good conversations, books and bossa nova tunes.
+- 🔭 I’m currently working on ****
+- 🌱 I’m currently learning **about cloud computting, data science and data security**
+- 👯 I’m looking to collaborate on **Projects that are related to biomedical engineering, mainly in the field of neuroscience and neurodegenerative diseases**
+- ⚡ Fun fact: Never let a computer know you're in a hurry.
+  
 ##
 
   ![Snake animation](https://github.com/laryferreira/laryferreira/blob/output/github-contribution-grid-snake.svg)
