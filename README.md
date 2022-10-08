@@ -1,5 +1,6 @@
-# Laryssa de Oliveira Ferreira | Engenharia e Desenvolvimento Web
-### <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+
+### 
+<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 Fico feliz por você ter chegado ao meu perfil no github! Seja bem vindo(a)!
 
 Aqui estão algumas informações para você me conhecer melhor!
