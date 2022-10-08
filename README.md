@@ -33,7 +33,5 @@ Aqui estão algumas informações para você me conhecer melhor!
  <p>
 <img align="left" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
  </p>
- </div>
- <div>
   ![Snake animation](https://github.com/laryferreira/laryferreira/blob/output/github-contribution-grid-snake.svg)
 </div>
