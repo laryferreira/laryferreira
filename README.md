@@ -13,7 +13,7 @@ I'm so glad you made it here! Welcome!
 
 As a brief introduction... <br>
 
-At this moment, I'm a computer engineering student at UnB (Universidade de Brasília), but I've always been a passionate seeker for knowledge.<i> <br>
+At this moment, I'm a computer engineering student at UnB (Universidade de Brasília), but I've always been a passionate seeker for knowledge.<br>
 
 It would be a honor to have your company on this journey! ☺️ <br>
 
