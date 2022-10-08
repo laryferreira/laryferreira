@@ -28,7 +28,7 @@ Aqui estão algumas informações para você me conhecer melhor!
  
 <div>  
   ###
-  Você me encontra facilmente aqui:
+  <h1 align="left">Você me encontra facilmente aqui:</h1>
   ###
   </div>
     <div>
