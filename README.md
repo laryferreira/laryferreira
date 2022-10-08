@@ -15,7 +15,7 @@ Aqui estão algumas informações para você me conhecer melhor!
 
 >**Medium**:  www.medium.com/@laryssa.ferreira
 <div>
-  <a href="https://www.canva.com/design/DAEpPsxqkTg/nPKs-BTco_p48HfXwEtu1w/view?utm_content=DAEpPsxqkTg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+  <a href="https://www.canva.com/design/DAEpPsxqkTg/T2ceqasQjrJGtKbdbQjDeA/view?utm_content=DAEpPsxqkTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laryferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=7&theme=dark"/>
 </div>
