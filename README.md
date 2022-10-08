@@ -27,6 +27,8 @@ Aqui estão algumas informações para você me conhecer melhor!
   <img align="center" alt="Lary-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Lary-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
  </div>
+ 
+ 
  <div>
   <img align="left" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
   </div>
