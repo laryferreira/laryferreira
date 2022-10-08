@@ -5,7 +5,6 @@
  <a href="mailto:contatolaryssaf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/laryssaoliferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://medium.com/@laryssa.ferreira" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
-<img align="right" alt="Lary-pic" height="90" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
 Fico feliz por você ter chegado ao meu perfil no github! Seja bem vindo(a)!
 
