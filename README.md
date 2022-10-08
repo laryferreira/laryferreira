@@ -44,9 +44,9 @@ Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
 
 ##
 - 🔋 Charged by good conversations, books and bossa nova tunes.
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **improving my python and javascript skills**
 - 🌱 I’m currently learning **about cloud computting, data science and data security**
-- 👯 I’m looking to collaborate on **Projects that are related to biomedical engineering, mainly in the field of neuroscience and neurodegenerative diseases**
+- 👯 I’m looking to collaborate on **Projects that are related to criptography and open finance software**
 - ⚡ Fun fact: Never let a computer know you're in a hurry.
   
 ##
