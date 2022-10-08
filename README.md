@@ -10,7 +10,7 @@ Aqui estão algumas informações para você me conhecer melhor!
 - 🏆 ***Em busca de pessoas dedicadas em aprendizado de desenvolvimento web para aprendermos juntos!***
 - ❔ Quero saber mais sobre desenvolvimento IOS e uso do Xcode
 - 💬 Pergunte-me sobre HTML e CSS, criação de formulários e interfaces simples
-- 
+
 <div>
   <a href="https://drive.google.com/file/d/15GRQgUBVLdgEFhmEK4cEanWg8F-2lZvj/view?usp=sharingk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laryferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,6 +27,8 @@ Aqui estão algumas informações para você me conhecer melhor!
   ##
  
 <div>  
+  ###
+  Você me encontra facilmente aqui:
  <a href="mailto:contatolaryssaf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/laryssaoliferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://medium.com/@laryssa.ferreira" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
