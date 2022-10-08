@@ -20,6 +20,8 @@ Aqui estão algumas informações para você me conhecer melhor!
   <a href="https://drive.google.com/file/d/15GRQgUBVLdgEFhmEK4cEanWg8F-2lZvj/view?usp=sharingk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laryferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <p>
+   <img align="right" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
+   </p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=7&theme=dark"/>
    </p>
 </div>
@@ -31,7 +33,7 @@ Aqui estão algumas informações para você me conhecer melhor!
  </div>
 <div>
  <p>
-<img align="left" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
+<img align="right" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
   ![Snake animation](https://github.com/laryferreira/laryferreira/blob/output/github-contribution-grid-snake.svg)
 </div>
