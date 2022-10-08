@@ -16,7 +16,6 @@ Aqui estão algumas informações para você me conhecer melhor!
 - ❔ Quero saber mais sobre desenvolvimento IOS e uso do Xcode
 - 💬 Pergunte-me sobre HTML e CSS, criação de formulários e interfaces simples
  <img src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy-downsized.gif" width="300px" align="left"> 
-  <div>
   <a href="https://drive.google.com/file/d/15GRQgUBVLdgEFhmEK4cEanWg8F-2lZvj/view?usp=sharingk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laryferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img align="right" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
