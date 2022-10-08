@@ -15,13 +15,12 @@ Aqui estão algumas informações para você me conhecer melhor!
 - 🏆 ***Em busca de pessoas dedicadas em aprendizado de desenvolvimento web para aprendermos juntos!***
 - ❔ Quero saber mais sobre desenvolvimento IOS e uso do Xcode
 - 💬 Pergunte-me sobre HTML e CSS, criação de formulários e interfaces simples
- <img src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy-downsized.gif" width="300px" align="left"> 
+ <img src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy-downsized.gif" width="200px" align="left"> 
   <a href="https://drive.google.com/file/d/15GRQgUBVLdgEFhmEK4cEanWg8F-2lZvj/view?usp=sharingk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laryferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img align="right" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=7&theme=dark"/>
-   </p>
-</div>
+
 <div style="display: inline_block">
   <img align="center" alt="Lary-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Lary-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
