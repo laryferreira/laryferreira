@@ -2,7 +2,7 @@
 ### Olá! 🙋🏻‍♀️
 Fico feliz por você ter chegado ao meu perfil no github! Seja bem vindo(a)!
 
-Aqui estão algumas informações sobre mim para você me conhecer melhor!
+Aqui estão algumas informações para você me conhecer melhor!
 
 - 💻 Atualmente, curso o 1º semestre de **Engenharia de Computação** na **Universidade de Brasília**
 - 🌱 No momento, estou aprendendo Python e aprofundando meus conhecimentos em Javascript
