@@ -23,7 +23,7 @@ It would be a honor to have your company on this journey! ☺️ <br>
 
 Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
 
- <p align=right><img src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy-downsized.gif" width="205px"
+ <p align=center><img src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy-downsized.gif" width="205px"
 ##
  
 <div align="center">
