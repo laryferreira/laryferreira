@@ -1,6 +1,11 @@
 
 ### 
-<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/laryferreira/laryferreira/master/hi.gif" height="30px"></h1>
+<h1 align="left">Olá!>
+
+ <a href="mailto:contatolaryssaf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/laryssaoliferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://medium.com/@laryssa.ferreira" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
+
 Fico feliz por você ter chegado ao meu perfil no github! Seja bem vindo(a)!
 
 Aqui estão algumas informações para você me conhecer melhor!
@@ -22,12 +27,6 @@ Aqui estão algumas informações para você me conhecer melhor!
   <img align="center" alt="Lary-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Lary-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="right" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
-</div>
-
-Me encontre em:
- <a href="mailto:contatolaryssaf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/laryssaoliferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://medium.com/@laryssa.ferreira" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
 
 ![Snake animation](https://github.com/laryferreira/laryferreira/blob/output/github-contribution-grid-snake.svg)
 </div>
