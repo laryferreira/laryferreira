@@ -22,6 +22,6 @@ Aqui estão algumas informações para você me conhecer melhor!
   <img align="center" alt="Lary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lary-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>">
+  <img align="right" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 </div>
   
