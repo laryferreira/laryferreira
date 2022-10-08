@@ -5,6 +5,7 @@
  <a href="mailto:contatolaryssaf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/laryssaoliferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://medium.com/@laryssa.ferreira" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
+<img align="right" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
 Fico feliz por você ter chegado ao meu perfil no github! Seja bem vindo(a)!
 
@@ -26,7 +27,7 @@ Aqui estão algumas informações para você me conhecer melhor!
   <img align="center" alt="Lary-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Lary-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Lary-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="right" alt="Lary-pic" height="1000" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
+  <img align="right" alt="Lary-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
 ![Snake animation](https://github.com/laryferreira/laryferreira/blob/output/github-contribution-grid-snake.svg)
 </div>
