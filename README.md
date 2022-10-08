@@ -23,6 +23,7 @@ It would be a honor to have your company on this journey! ☺️ <br>
 
 Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
 
+ <p align=left><img src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy-downsized.gif" width="210px"
 ##
  
 <div align="center">
@@ -47,15 +48,12 @@ Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
 - 💾 I’m currently working on **improving my python and javascript skills**
 - ⚙️  I’m currently learning **about cloud computting, data science and data security**
 - 💡 I’m looking to collaborate on **projects that are related to criptography or open finance software**
-- 🔮 Fun fact: the only way to make your stubborn code work is showing it to someone, it will work right away
-  
+- 🔮 Fun fact: the only way to make your stubborn code work is showing it to someone, it will work right away!
+
 ##
 
   ![Snake animation](https://github.com/laryferreira/laryferreira/blob/output/github-contribution-grid-snake.svg)
   
   ![](https://komarev.com/ghpvc/?username=laryferreira&label=📈+You+are+visitor+number&color=green)
   
-  <!--<p align=center><img src="https://giphy.com/clips/comedycentral-workaholics-comedy-central-7tR0en57EZPIs7S4JI" width="80px">-->
-  
-  <!--![footer](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=180&width=100&section=footer&text=&lsaquo;&rsaquo;%20Thanks%20for%20watching%20my%20profile%20&lsaquo;/&rsaquo;&fontSize=20&fontAlign=50&fontColor=000000)-->
-<!--
+ 
