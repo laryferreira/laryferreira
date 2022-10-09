@@ -27,7 +27,7 @@ Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
 ##
  
 <div align="center">
- <a href="https://drive.google.com/file/d/1ocS8YCs-ylPRhH1z9LhAwSKIpkvTMjYU/view?usp=sharing">
+ <a href="https://drive.google.com/file/d/1TDN2EegP-0qWLAEKDMTpkZnTH832ZJnS/view?usp=sharing">
 <p align=left><img src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy-downsized.gif" width="144px"
  <a href="https://github.com/laryferreira">
  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=laryferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
