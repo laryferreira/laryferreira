@@ -29,7 +29,6 @@ Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
  
 <div align="center">
  <a href="https://linktr.ee/laryferreira">
-<p align=left><img src="https://media.giphy.com/media/AYECTMLNS4o67dCoeY/giphy-downsized.gif" width="144px"
  <a href="https://github.com/laryferreira">
  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=laryferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=7&theme=dark"/>
