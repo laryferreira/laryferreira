@@ -31,7 +31,7 @@ Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
  <a href="https://linktr.ee/laryferreira">
  <a href="https://github.com/laryferreira">
  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=laryferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=7&theme=dark"/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=7&theme=dark"/
  
 </div>
 
@@ -51,8 +51,6 @@ Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
 - 🔮 Fun fact: the only way to make your stubborn code work is showing it to someone, it will work right away!
 
 ##
-
-  ![Snake animation](https://github.com/laryferreira/laryferreira/blob/output/github-contribution-grid-snake.svg)
   
   ![](https://komarev.com/ghpvc/?username=laryferreira&label=📈+You+are+visitor+number&color=green)
   
