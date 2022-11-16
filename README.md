@@ -19,7 +19,7 @@ It would be a honor to have your company on this journey! ☺️ <br>
 <sub> Leonardo da Vinci </sub> <br>
 <sup> PS: Quote by one of my biggest inspirations in life!</sup>
 
-Make yourself at home, grab a coffe, and let's code! 👩🏻‍💻
+Make yourself at home, grab a coffee, and let's code! 👩🏻‍💻
 
 ##
  
