@@ -29,4 +29,8 @@ Make yourself at home, grab a coffee, and let's code! 👩🏻‍💻
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=react&line_height=40&hide=css"/> </a>
  
 </div>
- 
+
+  ##
+  <div align="left">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  </div>
