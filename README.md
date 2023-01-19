@@ -11,7 +11,9 @@
 
 I'm so glad you made it here! Welcome!
 
-At this moment, I'm a computer engineering student at UnB (Universidade de Brasília), but I've always been a passionate seeker for knowledge.<br>
+At this moment, I'm a computer engineering student at UnB (University of Brasília - Brazil)
+
+I'm open to working on any project that require learning from scratch! 
 
 It would be a honor to have your company on this journey! ☺️ <br>
 
