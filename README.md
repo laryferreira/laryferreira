@@ -27,6 +27,7 @@ Make yourself at home, grab a coffee, and let's code! 👩🏻‍💻
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=monokai&line_height=40&hide=css"/> </a>
 <a href=""> <img align="right" src="https://streak-stats.demolab.com?user=laryferreira&theme=monokai&hide_border=true)](https://git.io/streak-stats"/> </a>
 
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
