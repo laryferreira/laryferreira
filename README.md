@@ -25,7 +25,7 @@ Make yourself at home, grab a coffee, and let's code! 👩🏻‍💻
 
 ##
 <div align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=react&line_height=40&hide=css"/> </a>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=monokai&line_height=40&hide=css"/> </a>
 
   <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -38,4 +38,8 @@ Make yourself at home, grab a coffee, and let's code! 👩🏻‍💻
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
  
  ##
+
+<a href=""> <img align="center" src="https://streak-stats.demolab.com?user=laryferreira&theme=monokai&hide_border=true)](https://git.io/streak-stats"/> </a>
+
+
 <a href=""> <img align="center" src="https://github-profile-trophy.vercel.app/?username=laryferreira&theme=monokai"/> </a>
