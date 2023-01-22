@@ -24,10 +24,10 @@ It would be a honor to have your company on this journey! ☺️ <br>
 Make yourself at home, grab a coffee, and let's code! 👩🏻‍💻
 
 ##
-<div align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=monokai&line_height=40&hide=css"/> </a>
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=monokai&line_height=40&hide=css"/> </a>
+<a href=""> <img align="right" src="https://streak-stats.demolab.com?user=laryferreira&theme=monokai&hide_border=true)](https://git.io/streak-stats"/> </a>
 
-  <div align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -37,9 +37,3 @@ Make yourself at home, grab a coffee, and let's code! 👩🏻‍💻
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
  
- ##
-
-<a href=""> <img align="center" src="https://streak-stats.demolab.com?user=laryferreira&theme=monokai&hide_border=true)](https://git.io/streak-stats"/> </a>
-
-
-<a href=""> <img align="center" src="https://github-profile-trophy.vercel.app/?username=laryferreira&theme=monokai"/> </a>
