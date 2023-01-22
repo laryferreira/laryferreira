@@ -24,13 +24,9 @@ It would be a honor to have your company on this journey! ☺️ <br>
 Make yourself at home, grab a coffee, and let's code! 👩🏻‍💻
 
 ##
-
 <div align="center">
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=react&line_height=40&hide=css"/> </a>
- 
-</div>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=react&line_height=40&hide=css"/> </a>
 
-  ##
   <div align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -40,4 +36,6 @@ Make yourself at home, grab a coffee, and let's code! 👩🏻‍💻
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
-
+ 
+ ##
+<a href=""> <img align="center" src="https://github-profile-trophy.vercel.app/?username=laryferreira&theme=monokai"/> </a>
