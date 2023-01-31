@@ -26,24 +26,3 @@ Make yourself at home, grab a coffee, and let's code! 👩🏻‍💻
 ##
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=monokai&line_height=40&hide=css"/> </a>
 <a href=""> <img align="right" src="https://streak-stats.demolab.com?user=laryferreira&theme=monokai&hide_border=true)](https://git.io/streak-stats"/> </a>
-
-```javascript
-Interests = ['Web/app development', 'Competitive programming', 'Artificial inteligence', 'Entrepreneurship']  
-
-Skills = {
-        Frontend: ['VueJs', 'ReactJs', 'Typescript', 'React Native'],
-        Backend: ['NodeJs', 'Firebase'],
-        Design: ['Figma', 'Gimp'],
-        AI: ['Scikit learn', 'Pandas'],
-        Competitive_programming: ['C++', 'Codeforces'],
-        Languages: ['Javascript', 'Typescript', 'C', 'C++', 'Python'],
-}
-Projects = { 
-        Cosseno: {
-            type: 'Web App',
-            description: 'The oficial student platform',
-            status: 'released 🚀',
-        },
-        Personal: ['Learning competitive programming', 'developing applications', 'Making some curious projects'],
-}
-```
