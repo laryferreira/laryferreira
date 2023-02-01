@@ -17,12 +17,6 @@ I'm open to working on any project that require learning from scratch!
 
 It would be a honor to have your company on this journey! ☺️ <br>
 
-***"Learning never exhausts the mind."***
-<sub> Leonardo da Vinci </sub> <br>
-<sup> PS: Quote by one of my biggest inspirations in life!</sup>
-
-Make yourself at home, grab a coffee, and let's code! 👩🏻‍💻
-
 ##
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=monokai&line_height=40&hide=css"/> </a>
 <a href=""> <img align="right" src="https://streak-stats.demolab.com?user=laryferreira&theme=monokai&hide_border=true)](https://git.io/streak-stats"/> </a>
