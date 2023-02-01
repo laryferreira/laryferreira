@@ -9,13 +9,24 @@
 
 </div>
 
+```javascript
+
 I'm so glad you made it here! Welcome!
 
 At this moment, I'm a computer engineering student at UnB (University of Brasília - Brazil)
 
 I'm open to working on any project that require learning from scratch! 
 
-It would be a honor to have your company on this journey! ☺️ <br>
+Interests = ['Web/app development', 'Competitive programming', 'Artificial inteligence']  
+
+Skills = {
+        Backend: ['NodeJs'],
+        Competitive_programming: ['URI/Beecrowd', 'Codeforces'],
+        Languages: ['Javascript', 'Python'],
+}
+        Personal: ['Learning competitive programming', 'Making some curious projects'],
+}
+```
 
 ##
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laryferreira&theme=monokai&line_height=40&hide=css"/> </a>
