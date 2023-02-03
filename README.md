@@ -21,9 +21,9 @@ class Skills extends Developer {
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF7F50?style=flat-square&labelColor=FD5E5E&logo=gmail&logoColor=white&link=mailto:contatolaryssaf@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF7F50?style=flat-square&labelColor=FD5E5E&logo=gmail&logoColor=white&link=mailto:contato.laryssaf@gmail.com" /></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-6495ED?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laryssaoliferreira" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-6495ED?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laryssaoliferreira/" /></a>
  
 </p>  
