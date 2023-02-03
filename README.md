@@ -19,9 +19,10 @@ I'm open to working on any project that require learning from scratch!
 Interests = ['Web/app development', 'Competitive programming', 'Artificial inteligence']  
 
 Skills = {
+        Languages: ['Javascript', 'Python'],
+        Frontend: ['ReactJs']
         Backend: ['NodeJs'],
         Competitive_programming: ['URI/Beecrowd', 'Codeforces'],
-        Languages: ['Javascript', 'Python'],
 }
         Personal: ['Learning competitive programming', 'Making some curious projects'],
 }
