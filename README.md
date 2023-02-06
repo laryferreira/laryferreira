@@ -1,4 +1,4 @@
- 
+                         
 [![GitHub followers](https://img.shields.io/github/followers/laryferreira.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laryferreira?tab=followers)
 
  ```js
@@ -12,8 +12,6 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
   languages = ['Python', 'C++', 'Javascript'];
-  frontend  = ['ReactJS'];
-  backend = ['NodeJS'];
   interests = ['Competitive Programming', 'Artificial Inteligence', 'Web/App development']
 }
 
