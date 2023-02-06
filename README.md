@@ -16,3 +16,4 @@ class Skills extends Developer {
 }
 
 ```
+[![Sparkline](https://stars.medv.io/laryferreira/badges.svg)](https://stars.medv.io/laryferreira/badges)
