@@ -11,8 +11,8 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages = ['Python', 'C++', 'Javascript'];
-  interests = ['Competitive Programming', 'Artificial Inteligence', 'Web/App development']
+  languages = ['Python'];
+  interests = ['Competitive Programming', 'Artificial Inteligence']
 }
 
 ```
