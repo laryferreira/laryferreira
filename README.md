@@ -5,7 +5,7 @@
 import Developer from 'laryferreira';
 const Laryssa = {
     Languages: ["HTML5", "CSS3", "Python", "JavaScript"],
-    Learning: ["C++", "NodeJs", "ReactJs", Django, Pandas"...],
+    Learning: ["C++", "NodeJs", "ReactJs", "Django", "Pandas"...],
     Member: {
         Projects: ["Meninas.comp", "Hackathon do Bem", "Missão Molécula", "BSN Research Team"]        
     },
