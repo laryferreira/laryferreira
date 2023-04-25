@@ -7,7 +7,7 @@ const Laryssa = {
     Languages: ["HTML5", "CSS3", "Python", "JavaScript"],
     Learning: ["C++", "NodeJs", "ReactJs", "Django", "Pandas"...],
     Member: {
-        Projects: ["Meninas.comp", "Hackathon do Bem", "Missão Molécula", "BSN Research Team"]        
+        Projects: ["Meninas.comp", "Hackathon do Bem", "Missão Molécula","Competitive programming"]        
     },
     aboutMe: {
         loves: ["Technology", "Research", "Going to the movies", "Creativity", "Psychology books"],
