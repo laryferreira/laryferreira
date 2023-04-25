@@ -3,16 +3,16 @@
 
  ```js
 import Developer from 'laryferreira';
-
-class AboutMe extends Developer {
-  name     = 'Laryssa Ferreira';
-  area    = 'Computer Engineering Undergraduate, Curious learner';
-  local = 'Brazil'; 
-}
-
-class Skills extends Developer {
-  languages = ['Python'];
-  interests = ['Competitive Programming', 'Artificial Inteligence', 'Web Development']
+const Laryssa = {
+    Languages: ["HTML5", "CSS3", "Python", "JavaScript"],
+    Learning: ["C++", "NodeJs", "ReactJs", Django, Pandas"...],
+    Member: {
+        Projects: ["Meninas.comp", "Hackathon do Bem", "Missão Molécula", "BSN Research Team"]        
+    },
+    aboutMe: {
+        loves: ["Technology", "Research", "Going to the movies", "Creativity", "Psychology books"],
+        hobbies: ["Exercising", "Learning languages", "Illustration"]
+    },
 }
 
 ```
