@@ -10,7 +10,7 @@ const Laryssa = {
         Projects: ["Meninas.comp", "Hackathon do Bem", "Missão Molécula","Competitive programming"]        
     },
     aboutMe: {
-        loves: ["Technology", "Research", "Going to the movies", "Creativity", "Psychology books"],
+        loves: ["Technology", "Research", "Creativity", "Teaching"],
         hobbies: ["Exercising", "Learning languages", "Illustration"]
     },
 }
