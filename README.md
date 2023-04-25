@@ -12,7 +12,7 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
   languages = ['Python'];
-  interests = ['Competitive Programming', 'Artificial Inteligence']
+  interests = ['Competitive Programming', 'Artificial Inteligence', 'Web Development']
 }
 
 ```
