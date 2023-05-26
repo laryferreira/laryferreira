@@ -15,5 +15,5 @@ const Laryssa = {
 }
 
 ```
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=15)](https://github.com/laryferreira/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=15)](https://github.com/laryferreira/github-readme-stats) ![](https://media.giphy.com/media/HEuxRm2IFZ95QtL9m6/giphy.gif)
 
