@@ -1,5 +1,4 @@
-                   
-[![GitHub followers](https://img.shields.io/github/followers/laryferreira.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laryferreira?tab=followers)
+
 
  ```js
 import Developer from 'laryferreira';
