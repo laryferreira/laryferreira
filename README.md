@@ -1,5 +1,5 @@
                    
-
+<!-- Javascript (descrição pessoal) -->
  ```js
 import Developer from 'laryferreira';
 const Laryssa = {
@@ -15,8 +15,8 @@ const Laryssa = {
 }
 
 ```
-  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=15&theme=dracula) 
-   <img src = "https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" height="200" width="300">
+  <!-- Ranking de Linguagens -->
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=15&theme=dracula)](https://github.com/laryferreira/github-readme-stats)
+     <!-- Gif --> <img src = "https://media.giphy.com/media/MHboUUIoxzOKs/giphy.gif" height="220" width="320">
    
 
