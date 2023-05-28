@@ -10,7 +10,8 @@ const Laryssa = {
     },
     aboutMe: {
         loves: ["Technology", "Research", "Creativity", "Teaching"],
-        hobbies: ["Exercising", "Learning languages", "Illustration"]
+        hobbies: ["Exercising", "Learning languages", "Illustration"],
+        lookingFwdTo: ["Experiences where I can learn from scratch", "Contribute to real life projects"]
     },
 }
 
