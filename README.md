@@ -15,10 +15,8 @@ const Laryssa = {
 }
 
 ```
-  <!-- Ranking de Linguagens & gif -->
+  <!-- Ranking de Linguagens -->
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=15&theme=dracula)](https://github.com/laryferreira/github-readme-stats)
-<img src="https://media.giphy.com/media/lpBYaKRaWM7jXAAWuZ/giphy-downsized.gif" height=165 width=530>
-
   <!-- Linguagens e frameworks --> 
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="C++" alt="C++" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" /></code>
