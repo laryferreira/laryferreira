@@ -17,6 +17,6 @@ const Laryssa = {
 ```
   <!-- Ranking de Linguagens -->
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laryferreira&layout=compact&langs_count=15&theme=dracula)](https://github.com/laryferreira/github-readme-stats)
-   <img src="https://media.giphy.com/media/lpBYaKRaWM7jXAAWuZ/giphy-downsized.gif" height=165 width=500>
+   <img src="https://media.giphy.com/media/lpBYaKRaWM7jXAAWuZ/giphy-downsized.gif" height=165 width=550>
    
 
