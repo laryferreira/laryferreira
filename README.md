@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sorts+Mill+Goudy&size=30&pause=1000&color=F7A1DF&width=435&lines=Building+a+better+world+for+girls+with+code!)](https://git.io/typing-svg)                 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sorts+Mill+Goudy&size=30&pause=1000&color=F7A1DF&width=435&lines=Building+a+better+world+with+code!)](https://git.io/typing-svg)                 
 <!-- Javascript (descrição pessoal) -->
  ```js
 import Developer from 'laryferreira';
