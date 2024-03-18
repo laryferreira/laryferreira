@@ -3,10 +3,17 @@
  ```js
 import Developer from 'laryferreira';
 const Laryssa = {
-    Languages: ["HTML5", "CSS3", "Python", "JavaScript"],
-    Learning: ["C++", "NodeJs", "Go", "Typescript"],
+    Languages: ["Python", "C++", "Javascript"],
+    Learning: ["C#", "Go"],
     Member: {
-        Projects: ["Huawei Seeds for the future'23", "Meninas.comp", "Hackathon do Bem", "Missão Molécula","Competitive programming"]        
+        Projects: ["Developer and advisor on MFP (Brazilian Women Programming Marathon)",
+                   "One of 25 brazilian women on Huawei Seeds for the future '23",
+                   "Scholar on Meninas.comp, leader of 3rd Women in programming Competition",
+                   "IT intern at BTG Pactual, largest investment bank in Latin America",
+                   "Researcher on Covid-19 at University of Brasília",
+                   "Participant on Hackathon do Bem",
+                   "Volunteer at Missão Molécula",
+                   "Competitive programmer"]        
     },
     aboutMe: {
         loves: ["Technology", "Research", "Creativity", "Teaching"],
