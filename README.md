@@ -4,7 +4,7 @@
 import Developer from 'laryferreira';
 const Laryssa = {
     Languages: ["Python", "C++", "Javascript"],
-    Learning: ["C#", "Go"],
+    Learning: ["C#", "Go", "AWS"],
     Member: {
         Projects: ["Developer and advisor on MFP (Brazilian Women Programming Marathon)",
                    "One of 25 brazilian women on Huawei Seeds for the future '23",
