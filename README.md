@@ -9,18 +9,15 @@ const Laryssa = {
     Languages: ["Python", "C++", "Javascript"],
     Learning: ["C#", "Go", "AWS"],
     Member: {
-        Projects: ["Developer and advisor on MFP (Brazilian Women Programming Marathon)",
-                   "One of 25 brazilian women on Huawei Seeds for the future '23",
-                   "Scholar on Meninas.comp, leader of 3rd Women in programming Competition",
-                   "IT intern at BTG Pactual, largest investment bank in Latin America",
-                   "Researcher on Covid-19 at University of Brasília",
-                   "Participant on Hackathon do Bem",
-                   "Volunteer at Missão Molécula",
+        Projects: ["Developer and coordinator on MFP (Brazilian Women Programming Marathon)",
+                   "Scholar on Meninas.comp, coordinator of Women in Programming Competitions",
+                   "Product Intern at Jeeves (YC 020)",
+                   "Researcher in NLP at University of Brasília",
                    "Competitive programmer"]        
     },
     aboutMe: {
         loves: ["Technology", "Research", "Creativity", "Teaching"],
-        hobbies: ["Exercising", "Learning languages", "Illustration"],
+        hobbies: ["Exercising", "Learning languages", "Illustration", "Languages"],
         lookingFwdTo: ["Experiences where I can learn from scratch", "Contribute to real life projects"]
     },
 }
