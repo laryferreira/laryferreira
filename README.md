@@ -1,6 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sorts+Mill+Goudy&size=30&pause=1000&color=F7A1DF&width=435&lines=Building+a+better+world+with+code!)](https://git.io/typing-svg)                 
-![image](https://github.com/laryferreira/laryferreira/assets/90197932/cde04ac2-64df-4b6f-a1e4-0bea45f2420d)
 
 <!-- Javascript (descrição pessoal) -->
  ```js
